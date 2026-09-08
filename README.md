@@ -25,21 +25,19 @@ The goal of the project was to transform raw sales data into an interactive busi
 
 Provides a high-level view of overall business performance, including total sales, total profit, profit margin, units sold, yearly sales trends, product category performance, and top-selling products.
 
-### 2. Product Performance
+![Executive Overview](executive-overview.png)
 
-Analyzes profitability across product categories and individual products using KPIs, category comparisons, profitability visualizations, and Top 10 product analysis.
-
-### 3. Product Profitability
+### 2. Product Profitability
 
 Examines the relationship between product sales and profitability using an interactive scatterplot, trend line, reference lines, profit margin analysis, and category filtering.
 
-### 4. Regional Performance
+![Product Profitability](product-profitability.png)
+
+### 3. Regional Performance
 
 Evaluates sales, profit, profit margin, and units sold across sales regions using interactive regional analysis.
 
-### 5. Executive Summary
-
-Summarizes the key findings from the analysis and translates them into business recommendations.
+![Regional Performance](regional-performance.png)
 
 ## Key Findings
 
