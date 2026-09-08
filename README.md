@@ -8,6 +8,16 @@ Using the AdventureWorks sales dataset, I developed a 5-page interactive dashboa
 
 The goal of the project was to transform raw sales data into an interactive business intelligence tool that could help decision-makers understand revenue, profitability, product performance, and regional performance.
 
+The objective of this project was to analyze AdventureWorks sales data and identify the products, categories, and regions driving revenue and profitability.
+
+The dashboard was designed to answer key business questions such as:
+
+- How are sales and profit trending over time?
+- Which products and categories generate the most profit?
+- Which categories have the strongest profit margins?
+- How does sales performance vary across regions?
+- What opportunities exist to improve profitability?
+
 ## Tools & Skills
 
 - Power BI
