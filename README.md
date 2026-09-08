@@ -1,6 +1,6 @@
 # AdventureWorks Sales Performance Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 I challenged myself to learn Power BI and build an end-to-end business analytics dashboard in one day.
 
@@ -8,7 +8,7 @@ Using the AdventureWorks sales dataset, I developed a 5-page interactive dashboa
 
 The goal of the project was to transform raw sales data into an interactive business intelligence tool that could help decision-makers understand revenue, profitability, product performance, and regional performance.
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 - Power BI
 - DAX
@@ -19,7 +19,7 @@ The goal of the project was to transform raw sales data into an interactive busi
 - KPI Development
 - Interactive Slicers & Dashboards
 
-## 📈 Dashboard Pages
+## Dashboard Pages
 
 ### 1. Executive Overview
 
@@ -41,14 +41,14 @@ Evaluates sales, profit, profit margin, and units sold across sales regions usin
 
 Summarizes the key findings from the analysis and translates them into business recommendations.
 
-## 🔍 Key Findings
+## Key Findings
 
 - **Bikes were the primary profit driver**, generating approximately $10.5M in profit.
 - **Accessories had the highest category-level profit margin**, at approximately 50%.
 - Sales increased substantially from FY2018 through FY2020.
 - Higher sales generally corresponded with higher profit, while individual products showed differences in profitability.
 
-## 💻 Technical Implementation
+## Technical Implementation
 
 I created DAX measures to calculate key performance indicators including:
 
@@ -65,13 +65,13 @@ I created DAX measures to calculate key performance indicators including:
 
 I also built a relational data model connecting sales data with product, customer, date, reseller, and sales territory information.
 
-## 💡 Key Takeaway
+## Key Takeaway
 
 The biggest technical takeaway from this project was learning how the different components of Power BI work together — from building relational data models and creating DAX measures to designing interactive KPIs, slicers, and visualizations.
 
 The project also reinforced the importance of looking beyond revenue to understand the profitability and performance driving a business.
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Potential future analysis could include:
 
